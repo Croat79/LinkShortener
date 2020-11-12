@@ -8,9 +8,9 @@ URL shortener
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/LinkShortener
+* git clone https://github.com/emrekybs/LinkShortener.git 
 
-* cd GenTiny
+* cd  linkshortener
 
 * pip3 install requests
 
