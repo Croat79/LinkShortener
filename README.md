@@ -14,12 +14,6 @@ URL shortener
 
 * pip3 install requests
 
-* python3 gentiny.py URL o python3 gentiny2.py
+* python3 linkshortener.py URL o python3 linkshortener.py
 
-<img src="https://github.com/AngelSecurityTeam/GenTiny/blob/master/img/gentiny.png">
-
-<img src="https://github.com/AngelSecurityTeam/GenTiny/blob/master/img/gentiny2.png">
-
-<h3> Paypal donations: </h3>
-
-* https://www.paypal.me/AngelSecurityTeam
+<img src="https://github.com/emrekybs/LinkShortener/blob/main/link%20shortener.png
