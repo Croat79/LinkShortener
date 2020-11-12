@@ -15,5 +15,3 @@ URL shortener
 * pip3 install requests
 
 * python3 linkshortener.py URL o python3 linkshortener.py
-
-<img src="https://github.com/emrekybs/LinkShortener/blob/main/link%20shortener"
