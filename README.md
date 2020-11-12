@@ -16,4 +16,4 @@ URL shortener
 
 * python3 linkshortener.py URL o python3 linkshortener.py
 
-<img src="https://github.com/emrekybs/LinkShortener/blob/main/link%20shortener.png
+<img src="https://github.com/emrekybs/LinkShortener/blob/main/link%20shortener"
