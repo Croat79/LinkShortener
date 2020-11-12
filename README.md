@@ -1,4 +1,4 @@
-# GenTiny
+# LinkShortener
 
 URL shortener
 
@@ -8,7 +8,7 @@ URL shortener
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/GenTiny
+* git clone https://github.com/AngelSecurityTeam/LinkShortener
 
 * cd GenTiny
 
