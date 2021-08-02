@@ -1,6 +1,5 @@
 # LinkShortener
-
-URL shortener
+Shortens links for phishing
 
 <h3> Execution: </h3>
 
