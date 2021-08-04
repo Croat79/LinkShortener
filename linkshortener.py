@@ -1,18 +1,23 @@
-#!/usr/bin/env python3
-import requests,os,sys
-cyan= '\033[33m'
-bold= '\033[1m'
-end= '\033[0m'
+#!/usr/bin/python
+import requests
+import os
+import sys
+cyan = '\033[33m'
+bold = '\033[1m'
+end = '\033[0m'
+
 
 def GenTiny():
-	 
-    print("""{1}{2}{1}
-░▒▓█ 𝓛𝓲𝓷𝓴 𝓢𝓱𝓸𝓻𝓽𝓮𝓷𝓮𝓻 █▓▒░
+
+    print '''{1}{2}{1}
+\xe2\x96\x91\xe2\x96\x92\xe2\x96\x93\xe2\x96\x88 \xf0\x9d\x93\x9b\xf0\x9d\x93\xb2\xf0\x9d\x93\xb7\xf0\x9d\x93\xb4 \xf0\x9d\x93\xa2\xf0\x9d\x93\xb1\xf0\x9d\x93\xb8\xf0\x9d\x93\xbb\xf0\x9d\x93\xbd\xf0\x9d\x93\xae\xf0\x9d\x93\xb7\xf0\x9d\x93\xae\xf0\x9d\x93\xbb \xe2\x96\x88\xe2\x96\x93\xe2\x96\x92\xe2\x96\x91
   {0}{1}Emre Koybasi{2} 
-""".format(end,bold,cyan))
+'''.format(end,
+            bold, cyan)
+
+
 GenTiny()
 url = input("\033[0m\033[1m\033[36m~/URL# \033[0m\033[1m")
-tiny = 'http://tinyurl.com/api-create.php?url='+url
+tiny = 'http://tinyurl.com/api-create.php?url=' + url
 info = requests.get(tiny)
-print("\033[0m\033[1m\033[36m~/Link# \033[0m\033[1m"+info.text)
-
+print "\033[0m\033[1m\033[36m~/Link# \033[0m\033[1m" + info.text
