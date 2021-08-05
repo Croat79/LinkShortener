@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#https://github.com/AngelSecurityTeam/GenTiny
 import requests,os,sys
 cyan= '\033[36m'
 bold= '\033[1m'
