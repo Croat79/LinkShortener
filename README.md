@@ -1,3 +1,4 @@
+[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-green)
 # LinkShortener
 Shortens links for phishing
 
